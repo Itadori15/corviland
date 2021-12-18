@@ -1,0 +1,46 @@
+{
+    "activeFile": "map.json",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "Alle Dateien (*)",
+    "fileStates": {
+        "map.json": {
+            "scale": 0.7459,
+            "selectedLayer": 13,
+            "viewCenter": {
+                "x": -7251.642311301783,
+                "y": -1094.6507574741922
+            }
+        },
+        "map.json#Special_Zones": {
+            "scaleInDock": 1
+        },
+        "map.json#roadsandpavement_export": {
+            "scaleInDock": 1
+        },
+        "map.json#terrain": {
+            "scaleInDock": 1
+        },
+        "map.json#tileset1": {
+            "scaleInDock": 1
+        },
+        "map.json#tileset1-repositioning": {
+            "scaleInDock": 1
+        },
+        "map.json#tileset5_export": {
+            "scaleInDock": 1
+        },
+        "map.json#tileset6_export": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "/home/mb/Dokumente/maps/corviland/src/assets",
+    "openFiles": [
+        "map.json"
+    ],
+    "project": "",
+    "recentFiles": [
+        "map.json"
+    ],
+    "tileset.embedInMap": true
+}
