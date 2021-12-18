@@ -1,5 +1,6 @@
 {
     "activeFile": "",
+    "automapping.whileDrawing": true,
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
@@ -39,5 +40,6 @@
     "project": "",
     "recentFiles": [
         "map.json"
-    ]
+    ],
+    "resizeMap.removeObjects": false
 }
