@@ -1,15 +1,15 @@
 {
-    "activeFile": "map.json",
+    "activeFile": "",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
         "map.json": {
-            "scale": 0.7459,
-            "selectedLayer": 13,
+            "scale": 1.065966796875,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": -7251.642311301783,
-                "y": -1094.6507574741922
+                "x": 3.752462095185706,
+                "y": -491.1034767074343
             }
         },
         "map.json#Special_Zones": {
@@ -34,13 +34,10 @@
             "scaleInDock": 1
         }
     },
-    "last.imagePath": "/home/mb/Dokumente/maps/corviland/src/assets",
     "openFiles": [
-        "map.json"
     ],
     "project": "",
     "recentFiles": [
         "map.json"
-    ],
-    "tileset.embedInMap": true
+    ]
 }
