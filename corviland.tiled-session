@@ -1,16 +1,15 @@
 {
-    "activeFile": "",
-    "automapping.whileDrawing": true,
+    "activeFile": "map.json",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
         "map.json": {
-            "scale": 1.065966796875,
-            "selectedLayer": 0,
+            "scale": 0.4613,
+            "selectedLayer": 20,
             "viewCenter": {
-                "x": 3.752462095185706,
-                "y": -491.1034767074343
+                "x": 8933.448948623456,
+                "y": 5368.523737264253
             }
         },
         "map.json#Special_Zones": {
@@ -36,6 +35,7 @@
         }
     },
     "openFiles": [
+        "map.json"
     ],
     "project": "",
     "recentFiles": [
