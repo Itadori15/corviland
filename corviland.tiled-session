@@ -1,19 +1,19 @@
 {
-    "activeFile": "map.json",
+    "activeFile": "teachershouse0.json",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
         "map.json": {
-            "scale": 0.4613,
-            "selectedLayer": 20,
+            "scale": 2.4129,
+            "selectedLayer": 12,
             "viewCenter": {
-                "x": 8933.448948623456,
-                "y": 5368.523737264253
+                "x": 8060.42521447221,
+                "y": 4711.964855567989
             }
         },
         "map.json#Special_Zones": {
-            "scaleInDock": 1
+            "scaleInDock": 1.2929
         },
         "map.json#roadsandpavement_export": {
             "scaleInDock": 1
@@ -32,13 +32,44 @@
         },
         "map.json#tileset6_export": {
             "scaleInDock": 1
+        },
+        "teachershouse0.json": {
+            "scale": 1.646,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 8147.630619684083,
+                "y": 4553.766707168895
+            }
+        },
+        "teachershouse0.json#Special_Zones": {
+            "scaleInDock": 2.513
+        },
+        "teachershouse0.json#roadsandpavement_export": {
+            "scaleInDock": 1
+        },
+        "teachershouse0.json#terrain": {
+            "scaleInDock": 1
+        },
+        "teachershouse0.json#tileset1": {
+            "scaleInDock": 1
+        },
+        "teachershouse0.json#tileset1-repositioning": {
+            "scaleInDock": 1
+        },
+        "teachershouse0.json#tileset5_export": {
+            "scaleInDock": 1
+        },
+        "teachershouse0.json#tileset6_export": {
+            "scaleInDock": 1
         }
     },
+    "map.lastUsedFormat": "json",
     "openFiles": [
-        "map.json"
+        "teachershouse0.json"
     ],
     "project": "",
     "recentFiles": [
+        "teachershouse0.json",
         "map.json"
     ],
     "resizeMap.removeObjects": false
