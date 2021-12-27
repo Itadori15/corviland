@@ -1,19 +1,19 @@
 {
-    "activeFile": "teachershouse0.json",
+    "activeFile": "",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
         "map.json": {
-            "scale": 2.4129,
-            "selectedLayer": 12,
+            "scale": 3.5381,
+            "selectedLayer": 13,
             "viewCenter": {
-                "x": 8060.42521447221,
-                "y": 4711.964855567989
+                "x": 7995.251688759505,
+                "y": 4659.139085950086
             }
         },
         "map.json#Special_Zones": {
-            "scaleInDock": 1.2929
+            "scaleInDock": 1.9784
         },
         "map.json#roadsandpavement_export": {
             "scaleInDock": 1
@@ -34,15 +34,15 @@
             "scaleInDock": 1
         },
         "teachershouse0.json": {
-            "scale": 1.646,
+            "scale": 1.9203,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 8147.630619684083,
-                "y": 4553.766707168895
+                "x": 7982.0861323751515,
+                "y": 4520.908191428423
             }
         },
         "teachershouse0.json#Special_Zones": {
-            "scaleInDock": 2.513
+            "scaleInDock": 1
         },
         "teachershouse0.json#roadsandpavement_export": {
             "scaleInDock": 1
@@ -63,14 +63,10 @@
             "scaleInDock": 1
         }
     },
-    "map.lastUsedFormat": "json",
     "openFiles": [
-        "teachershouse0.json"
     ],
     "project": "",
+    "property.type": "bool",
     "recentFiles": [
-        "teachershouse0.json",
-        "map.json"
-    ],
-    "resizeMap.removeObjects": false
+    ]
 }
