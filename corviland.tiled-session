@@ -5,11 +5,11 @@
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
         "map.json": {
-            "scale": 1.0781,
-            "selectedLayer": 27,
+            "scale": 0.5,
+            "selectedLayer": 35,
             "viewCenter": {
-                "x": 9128.095723958817,
-                "y": 6131.156664502365
+                "x": 9584,
+                "y": 6400
             }
         },
         "map.json#Special_Zones": {
@@ -22,7 +22,7 @@
             "scaleInDock": 1
         },
         "map.json#tileset1": {
-            "scaleInDock": 3.2251
+            "scaleInDock": 1.5
         },
         "map.json#tileset1-repositioning": {
             "scaleInDock": 1
