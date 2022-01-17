@@ -5,11 +5,11 @@
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
         "map.json": {
-            "scale": 0.5,
-            "selectedLayer": 35,
+            "scale": 1.5324,
+            "selectedLayer": 24,
             "viewCenter": {
-                "x": 9584,
-                "y": 6400
+                "x": 9381.688854085096,
+                "y": 4606.173322892195
             }
         },
         "map.json#Special_Zones": {
@@ -37,8 +37,8 @@
             "scale": 1.9203,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 9583.919179294902,
-                "y": 6399.520908191429
+                "x": 9583.658803311984,
+                "y": 6399.26053220851
             }
         },
         "teachershouse0.json#Special_Zones": {
@@ -64,8 +64,8 @@
         }
     },
     "openFiles": [
-        "map.json",
-        "teachershouse0.json"
+        "teachershouse0.json",
+        "map.json"
     ],
     "project": "",
     "property.type": "bool",
