@@ -6,10 +6,10 @@
     "fileStates": {
         "map.json": {
             "scale": 1.5324,
-            "selectedLayer": 24,
+            "selectedLayer": 35,
             "viewCenter": {
                 "x": 9381.688854085096,
-                "y": 4606.173322892195
+                "y": 4605.520751761942
             }
         },
         "map.json#Special_Zones": {
